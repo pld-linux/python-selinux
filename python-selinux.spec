@@ -3,7 +3,7 @@ Summary:	Python 2 binding for SELinux library
 Summary(pl.UTF-8):	Wiązania Pythona 2 do biblioteki SELinux
 Name:		python-selinux
 Version:	2.9
-Release:	1
+Release:	6
 License:	Public Domain
 Group:		Libraries
 #Source0Download: https://github.com/SELinuxProject/selinux/wiki/Releases
