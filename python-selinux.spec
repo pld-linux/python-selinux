@@ -37,7 +37,7 @@ Wiązania Pythona 2 do biblioteki SELinux.
 
 %prep
 %setup -q -n libselinux-%{version}
-%patch0 -p1
+%patch -P0 -p1
 
 # "-z defs" doesn't mix with --as-needed when some object needs symbols from
 # ld.so (because of __thread variable in this case)
